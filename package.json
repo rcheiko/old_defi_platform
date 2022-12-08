@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@unocss/nuxt": "^0.46.3",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "node-sass": "^7.0.3",
+    "nuxt": "3.0.0-rc.10",
+    "sass": "^1.54.9",
+    "sass-loader": "^13.1.0",
+    "scss": "^0.2.4"
+  },
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "@nuxtjs/composition-api": "^0.33.1",
+    "@pinia/nuxt": "^0.4.2",
+    "@vueuse/nuxt": "^9.3.0",
+    "bootstrap": "^5.2.1",
+    "chart.js": "^3.9.1",
+    "ethers": "^5.7.1",
+    "firebase": "^9.11.0",
+    "nuxt-highcharts": "^3.0.3",
+    "pinia": "^2.0.22",
+    "vue-chartjs": "^4.1.2",
+  }
+}
