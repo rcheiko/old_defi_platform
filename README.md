@@ -1,7 +1,5 @@
 # Nuxt 3 Minimal Starter
  
-[![Quality gate](https://sonar.ledgity.xyz/api/project_badges/quality_gate?project=ledgity-defi-platform&token=6ffb1b16a02d7db8c9eaf6bbd2e6f70fa95a65d8)](https://sonar.ledgity.xyz/dashboard?id=ledgity-defi-platform)
-
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
